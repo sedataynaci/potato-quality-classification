@@ -16,6 +16,21 @@ The project includes a **Real-time Simulation** (Pygame) connected to a **Flask 
 
 ---
 
+## Contributors
+
+- Berk Aşcı  
+- Sedat Can Aynacı
+- Demet Balcı
+
+## Contribution
+
+This project was developed as part of a team project.  
+I contributed to analyzing the dataset, evaluating model performance, and understanding the system workflow.
+
+Original project: https://github.com/algobana/patates_project
+
+---
+
 ## 🚀 Features
 * **Deep Learning Model:** Transfer Learning using **MobileNetV2** pre-trained on ImageNet.
 * **High Accuracy:** Achieved **99.29% accuracy**, significantly outperforming traditional ML methods.
