@@ -25,7 +25,7 @@ The project includes a **Real-time Simulation** (Pygame) connected to a **Flask 
 ## Contribution
 
 This project was developed as part of a team project.  
-I contributed to analyzing the dataset, evaluating model performance, and understanding the system workflow.
+I contributed to analyzing the dataset, evaluating model performance and understanding the system workflow.
 
 Original project: https://github.com/algobana/patates_project
 
@@ -63,7 +63,6 @@ cd patates_project
 pip install -r requirements.txt
 ```
 
-
 ## 3. Run the Backend (API)
 Note: A trained model file must be provided before running the backend service.
 
@@ -73,7 +72,6 @@ cd backend
 python app.py
 ```
 Server will start at http://localhost:5000
-
 
 ## 4. Run the Simulation
 Open a new terminal window (keep the backend running) and start the Pygame simulation.
@@ -100,7 +98,6 @@ The dataset includes open-source samples from Roboflow Universe and custom-colle
 
 ---
 
-
 ## 🧠 Model Performance
 Three algorithms were benchmarked. The CNN model (MobileNetV2) demonstrated superior performance.
 
@@ -125,7 +122,6 @@ The model shows near-perfect classification with negligible error.
 ### ROC Curve Analysis
 ![ROC Curve](research/images/roc_comparison.png)
 
-
 ---
 
 ## 👨‍💻 Author
@@ -137,13 +133,3 @@ The model shows near-perfect classification with negligible error.
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-
-
-
-
-
-
-
-
-
